@@ -5,7 +5,7 @@ Adalah sebuah projek yang dibuat untuk memenuhi tugas besar UAS mata kuliah Pemr
 
 # Anggota Kelompok
 
-| NIM     | NAMA      |    
+| NIM     | Nama      |    
 | :---: | :---: |
 | 2108940        | `Angelina Alginawati`         |
 | 2109151         | `Aulia Fitri Fadillah`         |
