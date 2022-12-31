@@ -15,7 +15,7 @@ Adalah sebuah projek yang dibuat untuk memenuhi tugas besar UAS mata kuliah Pemr
 ---------------------------------
 
 # Requirements
-Project yang dibuat belum termasuk Node_module maka dari itu synchronize project dengan kebutuhan-kebutuhan yang akan dibutuhkan, dengan cara :
+Project yang dibuat belum termasuk Node_module maka dari itu synchronize project dengan kebutuhan-kebutuhan yang dibutuhkan, dengan cara :
 - Mengetikan 
 ```
 npm i
