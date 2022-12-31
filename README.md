@@ -14,7 +14,8 @@ Buatlah sebuah database, tabel, dan atributnya seperti berikut :
 - Memiliki 7 atribut : id (int), nama (varchar), username (varchar), tanggal_lahir (date), nomor_telepon (int), email (varchar), password (varchar)
 - JANGAN LUPA nyalakan AI (auto increment) dibagian id
 
+-----------------------------------------
 # Desain Web Figma
-https://www.figma.com/file/uR6ipRHc9KBGPYj4gYc7kB/Untitled?node-id=0%3A1&t=ajthZC9uuCs5XQpm-1
-
+> https://www.figma.com/file/uR6ipRHc9KBGPYj4gYc7kB/Untitled?node-id=0%3A1&t=ajthZC9uuCs5XQpm-1
+-----------------------------------------
 
